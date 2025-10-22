@@ -1,0 +1,18 @@
+ .mainText{
+font-family: monospace;
+color: black;
+font-size: large;
+font-weight: 200;
+    }
+    .storyText {
+       font-family: 'Times New Roman', Times, serif;
+color: black;
+font-size: large;
+font-weight: 100;
+    }
+    #linkText {
+       font-family: fantasy;
+color: purple;
+font-size: x-large;
+font-weight: 100;
+    }
